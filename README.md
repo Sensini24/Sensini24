@@ -36,6 +36,5 @@ Aplicación educativa con Razor Pages, manejo de usuarios y contenido educativo.
 
 ### 📫 Puedes contactarme por:
 - GitHub: [@Sensini24](https://github.com/Sensini24)
-- LinkedIn: *[coloca tu enlace si tienes]*
 - Email: brandoqt24@gmail.com
 

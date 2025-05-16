@@ -18,7 +18,7 @@ Soy un desarrollador backend con enfoque en C# y .NET, apasionado por construir 
 
 #### 📚 Bookstore App
 Tienda de libros con carrito de compras, historial de pedidos, usuarios invitados y autenticados.
-- Tecnologías: ASP.NET Core, SQLite, JWT
+- Tecnologías: ASP.NET Core, SqlServer, JWT
 
 #### 💬 ChatApp (tipo WhatsApp)
 Mensajería privada y grupal con envío de multimedia, notificaciones en tiempo real y JWT.
